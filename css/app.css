@@ -14,14 +14,13 @@ h1 {
 body {
     background-color: #7EFF00;
     color: #2E1263;
-    font-family
     font-weight: 200;
 }
 
 img {
     height: 350px;
     width: 350px;
-    border-radius: 75%
+    border-radius: 75%;
 }
 
 #container {
@@ -36,9 +35,10 @@ button {
     margin: 30px auto 0;
     padding: 20px 25px;
     background-color: #8100FF; 
-    color: #2E1263   
+    color: white; 
     font-size: 14px;
     text-align: center;
+    
     border: 1px solid #2E1263;
     text-transform: uppercase;
     text-decoration: none;
